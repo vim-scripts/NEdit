@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=699
+
+This color scheme takes the colors from NEdit (http://www.nedit.org/) C++ defaults. Note that NEdit recognizes a bit more syntax, so this "Vim version" is somewhat inferior to the original.
